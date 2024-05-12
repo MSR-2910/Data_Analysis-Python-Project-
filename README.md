@@ -1,9 +1,9 @@
 ## Introduction 
 
 This is a Python Project on an imaginary company called AtliQGrands. 
-This project is to analyze and derive data driven insights as because of strategic moves made by the competitors AtliQGrands are losing market shares and revenue 
+This Python Project centers around an imaginary company, AtliQGrands. The aim is to analyze and derive data-driven insights, prompted by a decline in market shares and revenue following strategic moves by competitors.
 
-**_Disclaimer_** : _All datasets and reports do not represent any company, institution or country, but just a dummy dataset to demonstrate capabilities of Python. 
+**_Disclaimer_** : All datasets and reports are fictitious and do not represent any real company, institution, or country; they are solely for demonstration purposes.
 
 ## Problem statement 
 1. What is an average occupancy rate in each of the room categories?
@@ -21,20 +21,14 @@ This project is to analyze and derive data driven insights as because of strateg
 - Data Transforamtion 
 - Insight Generation
 
-## Analysis
+## Key Findings
 
-### Bookings
-The hotel offers four distinct room types: Standard, Elite, Premium, and Presidential Suite, catering to a range of preferences from budget-conscious to luxury-seeking travelers. 
-
-### Hotels: 
-The "Atliq" brand categorized into Luxury and Business segments across different cities, including Delhi, Mumbai, Hyderabad, and Bangalore. 
+- Occupancy Rate by Room Category: Across room categories, the occupancy rates are consistently high. The Presidential Suite shows the highest occupancy rate at 59.30%, suggesting effective demand management and market segmentation strategies.
+- Average Occupancy Rate per City: The average occupancy rates per city are: Bangalore 56.59%, Delhi 61.61%, Hyderabad 58.14%, and Mumbai 57.94%.
+- Weekday vs. Weekend Occupancy: Weekends consistently exhibit higher occupancy rates compared to weekdays, indicating increased demand for accommodations during weekends.
+- Revenue Realized per City: Mumbai leads in revenue realization, potentially due to robust demand or higher room rates. Efficient revenue management strategies appear to be implemented across all cities.
 
 ## Conclusion 
-- Across room categories, the occupancy rates are consistently high, with Presidential rooms slightly outperforming others at 59.30%, indicating effective demand management and market segmentation strategies in place.
-
-- The average occupancy rates per city are: Bangalore 56.59%, Delhi 61.61%, Hyderabad 58.14%, and Mumbai 57.94%. Weekends consistently exhibit higher occupancy, suggesting a trend of increased demand for accommodations during weekends compared to weekdays, contributing to the overall occupancy rates.
-
--  The revenue realized per city highlights Mumbai as the leader, potentially due to robust demand or higher room rates. Efficient revenue management strategies appear to be implemented across all cities.. 
-
+The project concludes that AtliQGrands has effectively managed demand and segmented markets, as evidenced by consistently high occupancy rates across room categories and cities. Furthermore, the observed trend of higher weekend occupancy underscores the importance of understanding and capitalizing on seasonal demand fluctuations. Efficient revenue management strategies have contributed to revenue optimization across all cities, positioning AtliQGrands for continued success in the competitive hospitality industry.
 
 
